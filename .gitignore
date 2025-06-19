@@ -404,3 +404,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/file1.txt
+/file2
+/readme.txt
+/file2.txt
